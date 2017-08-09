@@ -6,6 +6,7 @@ public class Runner {
 	public static void main(String[] args) {
 	System.out.println("Hello");
 	System.out.println("bye bye");
+	System.out.println("new bye");
 
 	}
 
